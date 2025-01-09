@@ -1,4 +1,4 @@
-# Portoflio Optimization and Efficient Frontier
+# Portfolio Optimization using Sharpe Ratio and Minimum Variance methods.
 
 This project provides an example of an investment portfolio optimization tool. At first, the main statistics are calcualted: mean, standard deviation and covarince matrix, accompanied by the correlation heatmap graph of the portfolio's assets. It calculates the optimal asset allocation using the Maximum Sharpe Ratio and Minimum Variance portfolios, visualised through Pie Chart for better visual representation. In addition to this, the efficient frontier of the portfolio is provided with both Optimized Sharpe ratio and Minimum Variance points presented on the graph. In the last part, the cumulative returns of the resulted portoflios are compared to the returns of S&P500 as a benchmark using interactive graph from PlotLy library which should provide more precise information about the returns at different periods.
 The chosen assets were taken from the porfolio of my close friend, the risk free rate being assumed at 3%. 

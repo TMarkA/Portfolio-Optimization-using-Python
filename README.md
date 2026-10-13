@@ -17,3 +17,9 @@ The chosen assets were taken from the porfolio of my close friend, the risk free
 
 The main goal for doing this project was to further enhance my python analytical skills that I absorbed during completing my Seminar Project at the University, alongside with exploring different portfolio management approaches. Another goal that I clearly achieved while doing this project was the improvement of my understading in the theory behind working with investment portfolios. 
 The script provides a valuable tool for any user to analyse and optimize their investment portfolio using one of the most basic  and common used metrics in portfolio management.
+
+#### Result
+Results appeared to be the following:
+Equally Weighted Portfolio: Return = 3.75%, Risk = 13.44%
+Max Sharpe Ratio Portfolio: Return = 30.26%, Risk = 14.70%
+Min Variance Portfolio: Return = 9.18%, Risk = 11.61%
